@@ -11,9 +11,9 @@ class Vehicle
     returns "vrrrrrrrooom!"
   end 
   
-  def 
-
-
+  def fill_up_tank
+    returns "filling up!"
+  end 
 
 
 end
