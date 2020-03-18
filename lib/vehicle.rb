@@ -8,7 +8,7 @@ class Vehicle
   end 
   
   def go 
-    returns "vr"
+    returns "vrrrrrrrooom!"
   end 
   
   def 
